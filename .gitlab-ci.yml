@@ -1,0 +1,42 @@
+stages:
+  - test
+  - docs
+  - deploy
+
+preparation:
+  stage: test
+  script:
+    - apt-get update -qy
+    - apt-get install -y python-dev python-pip
+    - apt-get -y install python3-pip
+    - pip3 install -r requirements.txt
+    - cd gamesBot
+    - python3 -m pytest -v Tests/tests.py
+    - cd ..
+
+pages:
+  stage: docs
+  only:
+    - master
+  script:
+    - apt-get update -qy
+    - apt-get install -y python-dev python-pip
+    - apt-get -y install python3-pip
+    - pip3 install -r requirements.txt
+    - pip3 install -U sphinx
+    - cd docs
+    - sphinx-build -b html source ../public
+  artifacts:
+    paths:
+    - public
+
+production:
+  stage: deploy
+  only:
+    - master
+  script:
+    - apt-get update -qy
+    - apt-get install -y ruby-dev
+    - gem install dpl
+    - dpl --provider=heroku --app=games-bot-for-telegram --api-key=$HEROKU_API_KEY
+    - python3 gamesBot/test_flask_app.py

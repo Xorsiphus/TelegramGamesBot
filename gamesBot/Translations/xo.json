@@ -1,0 +1,63 @@
+{
+  "xo_menu": {
+  "stop": [
+    "Выйти",
+    "Exit"
+  ],
+  "connection msg for P2": [
+    "Вы второй игрок, лобби создано!",
+    "You are the second player, the lobby is created!"
+  ],
+  "connection msg for P1": [
+    "Второй игрок зашёл, лобби создано!",
+    "The second player has entered, the lobby has been created!"
+  ],
+  "man for P1": [
+    "Ожидание второго игрока...",
+    "Waiting for the second player..."
+  ],
+  "disconnect msg for P1": [
+    "Второй игрок покинул лобби, выход",
+    "The second player left the lobby, exit"
+  ],
+  "disconnect msg for P2": [
+    "Вы покинули лобби!",
+    "You left the lobby!"
+  ],
+  "public move msg": [
+    "Ожидание вашего хода...",
+    "Waiting for your move..."
+  ],
+  "waiting vic": [
+    "Ожидание хода оппонента...",
+    "Waiting for the opponent's move ..."
+  ],
+  "your move msg": [
+    "Оппонент походил, ваш ход!",
+    "Opponent was like your move!"
+  ],
+  "draw": [
+    "Ничья!\n",
+    "Draw!\n"
+  ],
+  "win": [
+    "Победа!\n",
+    "Win!\n"
+  ],
+  "lose": [
+    "Поражение!\n",
+    "Lose!\n"
+  ]
+},
+"xo_logs": {
+  "miss player": "id {0} уже нет в списке!",
+  "log - miss session": "Сессия {0} не найдена!",
+  "log - old cb": "Старый callback {0}!",
+  "log - del lobby": "Лобби {0}:{1} распущенно",
+  "log - del error": "Лобби {0} не удалено!",
+  "log - 1/2": "Игрок 1/2 добавлен в лобби! ID - {0}",
+  "log - connection": "Игрок 2/2 добавлен в лобби! ID {0}:{1}",
+  "msg send error": "send message error: {0}"
+}
+
+}

@@ -1,0 +1,62 @@
+{
+  "dating": [
+    "Найти собеседника",
+    "Find a buddy"
+  ],
+  "Blackjack": [
+    "Блэкджек",
+    "Blackjack"
+  ],
+  "Hangman": [
+    "Виселица 🏆",
+    "Hangman 🏆"
+  ],
+  "Dice": [
+    "Бросить кости",
+    "Roll the dice"
+  ],
+  "Menu": [
+    "Главное меню",
+    "Main menu"
+  ],
+  "Slots": [
+    "Слоты",
+    "Slots"
+  ],
+  "XO_private": [
+    "Крестики-нолики",
+    "Tic Tac Toe"
+  ],
+  "TorA": [
+    "Правда или Действие!",
+    "True or Action!"
+  ],
+  "choose_game": [
+    "Выберите опцию:",
+    "Choose option:"
+  ],
+  "eng": [
+    "Английский",
+    "English"
+  ],
+  "exit": [
+    "Выход",
+    "Exit"
+  ],
+  "language": [
+    "Сменить язык",
+    "Switch language"
+  ],
+  "language_changed_successful": [
+    "Язык успешно изменён!",
+    "Language has been changed successful"
+  ],
+  "rus": [
+    "Русский",
+    "Russian"
+  ],
+  "help": [
+    "Напиши /start для вызова игрового меню.\n\nЗдесь вы можете поиграть во множество различных игр.\n  - Крестики-нолики ❌⭕️\n  - Виселица \uD83C\uDFC6\n  - Блекджек ♣️\n  - Правда или действие \uD83D\uDE4A\n  - Слоты \uD83C\uDFB0\n  - Поисковик \uD83D\uDC6B\nИграть можно как в компании друзей (групповой чат \uD83D\uDC65), так и одному (ЛС) . \nЕсть поддержка двух языков (Русский \uD83C\uDDF7\uD83C\uDDFA/ Английский \uD83C\uDDF1\uD83C\uDDF7).",
+    "Write /start to open the game menu.\n\nHere you can play many different games.\n  - Tic-Tac-Toe ❌⭕️\n  - Hangman \uD83C\uDFC6\n  - Blackjack ♣️\n  - Truth or Dare \uD83D\uDE4A\n  - Slots \uD83C\uDFB0\n  - Searcher \uD83D\uDC6B\nYou can play in the company of friends (group chat \uD83D\uDC65), or alone (Private) .\nThere is support for two languages (Russian \uD83C\uDDF7\uD83C\uDDFA/ English \uD83C\uDDF1\uD83C\uDDF7)."
+  ]
+}

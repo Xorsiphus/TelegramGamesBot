@@ -1,0 +1,112 @@
+{
+  "menu": {
+    "dating_menu": [
+      "Меню:",
+      "Menu:"
+    ],
+    "fill_out": [
+      "Заполнить профиль",
+      "Fill out a form"
+    ],
+    "Exit": [
+      "Выход",
+      "Exit"
+    ],
+    "find_a_buddy": [
+      "Найти собеседника!",
+      "Find a buddy!"
+    ],
+    "fill_name": [
+      "Введите имя:",
+      "Enter your name:"
+    ],
+    "fill_age": [
+      "Введите возраст:",
+      "Enter your age:"
+    ],
+    "fill_city": [
+      "Введите город:",
+      "Enter your city:"
+    ],
+    "get_photo": [
+      "Отправьте фото для профиля:",
+      "Send profile photo:"
+    ],
+    "disconnect msg": [
+      "Возвращаемся в меню",
+      "Go back to the menu"
+    ],
+    "again": [
+      "Заполнить заново",
+      ""
+    ],
+    "end_filling": [
+      "Завершить",
+      "Re-fill"
+    ],
+    "submenu": [
+      "Выберите:",
+      "Choose:"
+    ],
+    "show_profile": [
+      "Посмотреть профиль",
+      "View profile"
+    ],
+    "name": [
+      "Имя",
+      "Name"
+    ],
+    "age": [
+      "Возраст",
+      "Age"
+    ],
+    "city": [
+      "Город",
+      "City"
+    ],
+    "profile_error": [
+      "Сначала необходимо заполнить профиль!",
+      "First you need to fill out a profile!"
+    ],
+    "Next_buddy": [
+      "Следующий собеседник",
+      "Next buddy"
+    ],
+    "Previous_buddy": [
+      "Предыдущий собеседник",
+      "Previous buddy"
+    ],
+    "buddy_error": [
+      "В данный момент нет доступных собеседников!",
+      "There are currently no interlocutors available!"
+    ],
+    "get_info": [
+      "Получить ссылку на собеседника",
+      "Get a link to the interlocutor"
+    ],
+    "profile_info": [
+      "Ваш профиль:",
+      "Your profile:"
+    ],
+    "none_error": [
+      "Сначала необходимо выбрать имя пользователя в настройках Телеграма!",
+      "First you need to select a username in the Telegram settings!"
+    ],
+    "show_buddy_info": [
+      "Получить ссылку на потенциального собеседника!",
+      "Get a link to a potential interlocutor!"
+    ],
+    "buddy": [
+      "Собеседник: ",
+      "Interlocutor: "
+    ],
+    "skip_expr": [
+      "Пропустить",
+      "Interlocutor: "
+    ]
+  },
+  "log": {
+        "miss player": "id {0} уже нет в списке!",
+        "msg edit error": "edit message error: {0}"
+  }
+}

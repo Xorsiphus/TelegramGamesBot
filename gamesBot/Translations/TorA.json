@@ -1,0 +1,375 @@
+{
+  "menu":
+  {
+    "action":
+    [
+      "Действие!",
+      "Action!"
+    ],
+    "exit":
+    [
+      "Главное меню",
+      "Main menu"
+    ],
+    "true":
+    [
+      "Правда!",
+      "True!"
+    ],
+    "choose":
+    [
+      "Выберите пункт",
+      "Select menu item"
+    ]
+  },
+  "true":
+    [
+      [
+        "Что ты умеешь делать своими руками?",
+        "What can you do with your own hands?"
+      ],
+      [
+        "Что будешь делать, если кончится туалетная бумага?",
+        "What will you do if the toilet paper runs out?"
+      ],
+      [
+        "Назови любимый сериал.",
+        "What is your favorite series?"
+      ],
+      [
+        "Хотел бы, чтобы кошкодевочки были реальны?",
+        "Would you like the cat girls to be real?"
+      ],
+      [
+        "Если ты оказался бы один во всем городе, то чтобы начал делать?",
+        "If you would be alone in the whole city, what would you start doing?"
+      ],
+      [
+        "Тиктокеры - сверхлюди или нет? Твое отношение к ним.",
+        "Tiktokers - supermen or not? Your attitude towards them."
+      ],
+      [
+        "Расскажи всю правду о своей правой руке.",
+        "Tell the whole truth about your right hand."
+      ],
+      [
+        "Как зовут твою первую любовь?",
+        "What is your first love name?"
+      ],
+      [
+        "Если бы удалось начать жизнь сначала, какую профессию бы ты выбрал(а)?",
+        "If you could start life anew, what profession would you choose?"
+      ],
+      [
+        "Какая твоя заветная мечта?",
+        "What is your cherished dream?"
+      ],
+      [
+        "На какой вопрос ты бы ни за что не хотел(а) отвечать?",
+        "What question would you not want to answer?"
+      ],
+      [
+        "Твой самый страшный страх?",
+        "What is your worst fear?"
+      ],
+      [
+        "Ты воровал(а) когда-нибудь? Что?",
+        "Have you ever stolen? What?"
+      ],
+      [
+        "Ты самый(ая) красивый(ая) среди игроков?",
+        "Are you the most beautiful among the players?"
+      ],
+      [
+        "Сколько ты весишь?",
+        "How much do you weigh?"
+      ],
+      [
+        "Если появится возможность стать невидимым, какое будет твое первое дело?",
+        "If the opportunity arises to become invisible, what will be your first business?"
+      ],
+      [
+        "Сколько детей хочешь иметь?",
+        "How many children do you want to have?"
+      ],
+      [
+        "Какие безумные поступки совершал(а)?",
+        "What crazy things did you do?"
+      ],
+      [
+        "Нюхаешь свою одежду перед тем, как ее надеть?",
+        "Sniff your clothes before putting them on?"
+      ],
+      [
+        "Что больше всего боишься потерять?",
+        "What are you most afraid of losing?"
+      ],
+      [
+        "Когда-нибудь писал(а) в бассейн или море?",
+        "Ever pissed in a pool or sea?"
+      ],
+      [
+        "Что будешь делать, если станешь противоположного пола на один день?",
+        "What will you do if you become the opposite sex for one day?"
+      ],
+      [
+        "О чем ты мечтаешь?",
+        "What do you dream about?"
+      ],
+      [
+        "Самая темная твоя фантазия и мечта?",
+        "What is your darkest fantasy and dream?"
+      ],
+      [
+        "Какой лучший способ соблазнить тебя?",
+        "What is the best way to seduce you?"
+      ],
+      [
+        "Расскажи о своём самом неприличном сне.",
+        "Tell me about your most indecent dream."
+      ],
+      [
+        "Какой твой самый грязный и неприличный порок?",
+        "What is your most dirty and indecent vice?"
+      ],
+      [
+        "Какие клички и прозвища у тебя были? Какую кличку бы себе дала сама?",
+        "What nicknames and nicknames did you have? What name would she give herself?"
+      ],
+      [
+        "Как проще всего тебя заманить в гости?",
+        "What is the easiest way to lure you to visit?"
+      ],
+      [
+        "Что тебя раздражает в особях противоположного пола?",
+        "What annoys you in individuals of the opposite sex?"
+      ],
+      [
+        "Ты вешаешь одежду в шкаф или на стул?",
+        "Do you hang clothes in a closet or chair?"
+      ],
+      [
+        "Почему в системе Менделеева есть йод, но нет зеленки?",
+        "Why is there iodine in the Mendeleev system but no green?"
+      ],
+      [
+        "Хотел ли побывать на нудистском пляже?",
+        "Would you like to visit a nudist beach?"
+      ],
+      [
+        "Кому ты доверяешь свои секреты?",
+        "Who do you trust your secrets?"
+      ],
+      [
+        "Каким качеством в себе ты гордишься?",
+        "What quality are you proud of?"
+      ],
+      [
+        "Кем ты был(а) в садике на утреннике?",
+        "Who were you in the kindergarten at the matinee?"
+      ],
+      [
+        "Хотел(а) бы младшую сестрёнку?",
+        "Would you like a little sister?"
+      ],
+      [
+        "Какой период в жизни пережил(а) бы еще раз?",
+        "What period in life would you go through again?"
+      ],
+      [
+        "Какие у тебя самые ранние воспоминания из детства?",
+        "What are your earliest childhood memories?"
+      ],
+      [
+        "Есть ли у тебя отрицательные черты характера, которые однажды выручали в жизни?",
+        "Do you have any negative character traits that you once helped out in life?"
+      ],
+      [
+        "Смог бы ты простить человека, на которого очень злишься?",
+        "Could you forgive the person you are very angry with?"
+      ],
+      [
+        "Какой жизненный урок тебе запомнился больше всего?",
+        "What life lesson do you remember the most?"
+      ],
+      [
+        "Хочешь похудеть?",
+        "Do you want to lose weight?"
+      ],
+      [
+        "С кем бы из игроков остался(лась) на необитаемом острове?",
+        "With which of the players would you stay on a desert island?"
+      ],
+      [
+        "Веришь, что у каждого из нас есть двойник?",
+        "Do you believe that each of us has a double?"
+      ],
+      [
+        "Что должен сделать каждый человек в течение жизни?",
+        "What should each person do throughout his life?"
+      ],
+      [
+        "Сколько сможешь молчать?",
+        "How much can you keep silent?"
+      ],
+      [
+        "Изучал(а) Камасутру?",
+        "Studied the Kama Sutra?"
+      ],
+      [
+        "Целовался(лась) с человеком того же пола?",
+        "Kissing a man of the same gender?"
+      ],
+      [
+        "У тебя есть интимные фото в телефоне?",
+        "Do you have intimate photos on your phone?"
+      ]
+    ],
+  "action":
+  [
+    [
+      "Отправь селфи прямо сейчас.",
+      "Send a selfie right now."
+    ],
+    [
+      "Сними и отправь панораму прямо сейчас.",
+      "Take off and send the panorama right now."
+    ],
+    [
+      "Отрежь клочок волос и скинь их фото.",
+      "Cut a piece of hair and discard their photo."
+    ],
+    [
+      "Рассказать анекдот голосовым сообщенем \uD83D\uDE03.",
+      "Tell a joke by voice message \uD83D\uDE03."
+    ],
+    [
+      "Рассказать с акцентом четверостишие голосовым сообщенем.",
+      "Tell the quatrain with accent by voice message."
+    ],
+    [
+      "Придумать рифму к слову \"Кетчуп\".",
+      "Come up with the rhyme for the word \"Ketchup\"."
+    ],
+    [
+      "Рассказать скороговорку голосовым сообщенем \"Жили-были три китайца: Як, Як-цедрак, Як-цедрак-цедрак-цедрони\".",
+      "To tell the tongue twister by voice message \"Once upon a time there were three Chinese: Yak, Yak-zedrak, Yak-zedrak-zedrak-zedroni\"."
+    ],
+    [
+      "Сделай бороду из пены и скинь фото.",
+      "Make a beard out of foam and send off the photo."
+    ],
+    [
+      "Сделай и отправь селфи без рук.",
+      "Take and send selfie without hands."
+    ],
+    [
+      "Назови 5 аргументов, почему аниме - сила.",
+      "What are 5 arguments why anime is power."
+    ],
+    [
+      "Посчитай все свои пары носков или колготок и назови их количество.",
+      "Count all your pairs of socks or tights and name their number."
+    ],
+    [
+      "До конца дня пиши каждое слово в отдельном сообщении.",
+      "Until the end of the day, write each word in a separate message."
+    ],
+    [
+      "Напиши предыдущее сообщение(не от бота) на себе и скинь фото.",
+      "Write the previous message (not from the bot) on yourself and discard the photo."
+    ],
+    [
+      "Запиши и отправь звук, извергнутый не ртом.",
+      "Record and send a sound that is not spewed out of your mouth."
+    ],
+    [
+      "Назови любимого рэпера и его песню.",
+      "What is your favorite rapper and his song?"
+    ],
+    [
+      "Сделай комплимент каждому члену игры.",
+      "Give a compliment to each member of the game."
+    ],
+    [
+      "Запиши и отправь, как ты произносишь \"Чин-Чопа\"",
+      "Record and send as you pronounce \"Chin-Chopa\""
+    ],
+    [
+      "До конца отправляй только голосовые сообщения.",
+      "Send only voice messages to the end."
+    ],
+    [
+      "Нарисуй любого игрока голым и отправь.",
+      "Draw any player naked and send."
+    ],
+    [
+      "Сломай ручку или карандаш и отправь фото.",
+      "Break a pen or pencil and send a photo."
+    ],
+    [
+      "Нарисуй зубной пастой(майонезом) на зеркале усы, сфотографируйся с ними и отправь.",
+      "Draw a toothpaste (mayonnaise) on the mirror with a mustache, take a picture with them and send it."
+    ],
+    [
+      "Скинь скриншот истории браузера.",
+      "Send screenshot of browser history."
+    ],
+    [
+      "Скинь скриншот последних диалогов из ВК.",
+      "Take a screenshot of the latest dialogs from VK."
+    ],
+    [
+      "Замотай любую конечность в туалетную бумагу и помаши ей из окна на видео. Видео скинь конечно.",
+      "Wrap any limb in toilet paper and wave it from the window on the video. Send off the video of course."
+    ],
+    [
+      "Последнее фото из этой беседы необходимо установить на аватр (при наличии, в ВК).",
+      "The last photo from this conversation must be installed on the avatar (if available, in VK)."
+    ],
+    [
+      "Выполни несложное задание от предыдущего игрока.",
+      "Complete a simple task from the previous player."
+    ],
+    [
+      "Скинь страничку в ВК или номер своей мамы или брата/сестры.",
+      "Send the page URL in VK or the number of your mom or brother / sister."
+    ],
+    [
+      "Оцени всех игроков от 1 до 10.",
+      "Rate all players from 1 to 10."
+    ],
+    [
+      "Отправь двум людям \"Отправь это сообщение 5 людям, или у меня умрёт мама. Это правда работает, я сам попался!(9(!(\" в любом другом мессенджере.",
+      "Send to two people \"Send this message to 5 people, or my mother will die. It really works, I got caught! (9 (! (\" In any other messenger."
+    ],
+    [
+      "Оставь комментарий под фотографиями профилей всех участников игры(по возможности в ВК).",
+      "Leave a comment under the profile photos of all participants in the game (if possible in VK)."
+    ],
+    [
+      "Установи пуджа на заставку телефона и ходи так неделю, отправь скриншот экрана в эту беседу.",
+      "Install pudge on the phone screen and go this week, send a screenshot of this."
+    ],
+    [
+      "Изобрази цыганку и погадай в голосовом сообщении.",
+      "Imagine a gypsy and fortune tell in a voice message."
+    ],
+    [
+      "Покайся в одном грехе голосовым сообщением.",
+      "Repent of one sin in a voice message."
+    ],
+    [
+      "Нарисуй с закрытыми глазами извергающийся вулкан и отправь в чат.",
+      "With a closed eye, draw an erupting volcano and send it to the chat."
+    ],
+    [
+      "Нарисуй себе монобровь и сбрось селфи.",
+      "Draw a monobrow and drop your selfie."
+    ],
+    [
+      "Придумай всем игрокам новые имена, которые больше подходят.",
+      "Give all players new names that are more suitable."
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Blackjack": [
+    "Блэкджек",
+    "Blackjack"
+  ],
+  "Choose": [
+    "Выберите: ",
+    "Choose: "
+  ],
+  "DoNotTakeCard": [
+    "Больше не брать",
+    "Don't take cards anymore"
+  ],
+  "ExitFromGame": [
+    "Выходим из игры",
+    "Exiting from the game"
+  ],
+  "LeaveBlackjack": [
+    "Покинуть игру",
+    "Leave the game"
+  ],
+  "Menu": [
+    "Главное меню",
+    "Main menu"
+  ],
+  "Play Blackjack!": [
+    "Играть в Блэкджек!",
+    "Play Blackjack!"
+  ],
+  "Profile": [
+    "Профиль",
+    "Profile"
+  ],
+  "TakeCard": [
+    "Взять ещё карту",
+    "Take card"
+  ]
+}

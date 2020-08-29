@@ -1,0 +1,94 @@
+{
+  "ALL": [
+    "Любая",
+    "All"
+  ],
+  "ANIMALS": [
+    "Животные",
+    "Animals"
+  ],
+  "BODY": [
+    "Человек",
+    "Body"
+  ],
+  "CLOTHES": [
+    "Одежда",
+    "Clothes"
+  ],
+  "EAT": [
+    "Еда",
+    "Eat"
+  ],
+  "HOUSE": [
+    "Дом",
+    "House"
+  ],
+  "Hangman": [
+    "Виселица 🏆",
+    "Hangman 🏆"
+  ],
+  "MUSIC": [
+    "Музыка",
+    "Music"
+  ],
+  "NATURE": [
+    "Природа",
+    "Nature"
+  ],
+  "PC": [
+    "Компьютер",
+    "Computer"
+  ],
+  "PROFESSIONS": [
+    "Профессии",
+    "Professions"
+  ],
+  "SCHOOL": [
+    "Школа",
+    "School"
+  ],
+  "SPORT": [
+    "Спорт",
+    "Sport"
+  ],
+  "categories": [
+    "Игра \"Виселица\" 🏆\nВыбери категорию:",
+    "Game \"Hangman\" 🏆\nChoose a category:"
+  ],
+  "en": [
+    "Слова на EN 🇱🇷",
+    "Words on EN 🇱🇷"
+  ],
+  "end_message": [
+    "Игра окончена",
+    "Game over"
+  ],
+  "play_again": [
+    "Играть снова",
+    "Play again"
+  ],
+  "ru": [
+    "Слова на RU 🇷🇺",
+    "Words on RU 🇷🇺"
+  ],
+  "still_going": [
+    "Игра уже идёт, 🚫 - выход. ",
+    "The game is already on, 🚫 - exit. "
+  ],
+  "theme": [
+    "Тема: ",
+    "Theme: "
+  ],
+  "you_lose": [
+    "Ты проиграл 😞\nПравильное слово - ",
+    "You lost 😞\nThe right word is "
+  ],
+  "you_win": [
+    "Ты выиграл 🥳\nПравильное слово - ",
+    "You won 🥳\nThe right word is "
+  ],
+  "Menu": [
+    "Главное меню",
+    "Main menu"
+  ]
+}
